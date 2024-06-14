@@ -13,7 +13,7 @@ This project demonstrates the simulation of data link layer framing methods usin
 ### Prerequisites
 
 - Java Development Kit (JDK) installed on your machine.
-- Computer Networks (Basic idea of character stuffing on Data Link Layer)
+- Computer Networks (Basic idea of character stuffing on Data Link Layer).
 
 ### Running the Programs
 
